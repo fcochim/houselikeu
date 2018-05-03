@@ -10,7 +10,7 @@ export default class Profile extends React.Component {
     return(
       <View>
           <Text>
-              Profile be hereeeee nowwwww
+              Profile be hereeeee nowwwww alsdkalñskdlaskdlaksdakdñaskalksd
           </Text>
       </View>
     );
