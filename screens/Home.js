@@ -10,7 +10,7 @@ export default class Home extends React.Component {
     return(
       <View>
           <Text>
-              Home
+              This is my new screen 
           </Text>
       </View>
     );

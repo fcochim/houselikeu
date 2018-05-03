@@ -10,7 +10,7 @@ export default class Maps extends React.Component {
     return(
       <View>
           <Text>
-              Maps
+              Maps be hereeeeee
           </Text>
       </View>
     );

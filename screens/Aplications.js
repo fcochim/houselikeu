@@ -10,7 +10,7 @@ export default class Aplications extends React.Component {
     return(
       <View>
           <Text>
-              Aplications
+              Aplications be hereeeeee
           </Text>
       </View>
     );
