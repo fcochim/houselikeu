@@ -1,0 +1,3 @@
+# Referenced at /Users/Francisco/Github/houselikenew/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:33
+-keep class com.houselike.houselike.MainApplication { <init>(...); }
+
